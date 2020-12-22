@@ -11,7 +11,6 @@ You can check out my Github profile, which is full of hobby-projects that allow 
 - Java
 - Node
 - MySQL
-- GraphQL
 
 ### In My Free Time I Like To:
 - Spend My Time Outdoors (Hiking, Bodyboarding, Snowboarding, Playing Basketball, etc.)
