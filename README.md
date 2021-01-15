@@ -15,7 +15,7 @@ You can check out my Github profile, which is full of hobby-projects that allow 
 
 ### In My Free Time I Like To:
 - Spend My Time Outdoors (Hiking, Bodyboarding, Snowboarding, Playing Basketball, etc.)
-- Edit/Shoot Videos
+- Edit/Film Videos
 - Meditate
 
 ### Want To Get In Touch:
