@@ -1,6 +1,6 @@
 ## Alex Larcheveque 🤓
 
-Hi, I'm Alex - A Software Engineer at Ruggable, an e-commerce comapany.
+Hi, I'm Alex - A Software Engineer at Ruggable, an e-commerce company.
 
 You can check out my Github profile, which is full of hobby-projects that allow me to keep up with the latest technologies. Feel free to check them out and any constructive feedback would be great! 
 
