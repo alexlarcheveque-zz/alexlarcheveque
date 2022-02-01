@@ -5,16 +5,17 @@ Hi, I'm Alex - A Software Engineer at Ruggable, an e-commerce company.
 You can check out my Github profile, which is full of hobby-projects that allow me to keep up with the latest technologies. Feel free to check them out and any constructive feedback would be great! 
 
 ### Technologies That I Use:
-- Angular
 - React
 - React Native
+- Angular
 - Gatsby
 - Java
 - Node
 - MySQL
+- GraphQL
 
 ### In My Free Time I Like To:
-- Spend My Time Outdoors (Hiking, Bodyboarding, Snowboarding, Playing Basketball, etc.)
+- Spend Time Outdoors (Hiking, Bodyboarding, Snowboarding, Playing Basketball, etc.)
 - Edit/Film Videos
 - Meditate
 
